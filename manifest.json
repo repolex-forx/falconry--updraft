@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "falconry",
+  "repo": "updraft",
+  "versions": [
+    {
+      "commit": "d34bc8a35bebc898dd71d026ea742635805841bb",
+      "parsed_at": "2026-10-20T23:00:28.933347+00:00",
+      "filetree": "filetree/d34bc8a35bebc898dd71d026ea742635805841bb.nq.gz",
+      "blobs": [
+        "blob/fabca811e34e8b748367f21d646db7d6c035e7a1.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/e1a5a5e007ee496cc823363540ab0b8ec1b27801.nq.gz",
+        "blob/b8023d8bc0ca413584a729e5106f86ba8fe65400.nq.gz",
+        "blob/f22eb6587b1db289f57a6cfbf2110dc5ba381da2.nq.gz",
+        "blob/f1a2a16dc584b6d60802d4a9e2125652bd68cc9f.nq.gz",
+        "blob/9214a9fd48f6d552d20f21ce41b8d8538f6487d1.nq.gz",
+        "blob/46a449a007533f5450e4de93309f09105cb41e9a.nq.gz",
+        "blob/4df2d682936c78d0693817c06b512f0681ca8fd3.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
